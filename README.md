@@ -1,4 +1,1 @@
-## Sustainable Transition with AI (STAI): Empowering Global and Local Sustainability
-
-The "Sustainable Transition with AI (STAI)" workshop, set for IJCAI 2024 on Jeju Island, is an innovative full-day event dedicated to exploring the transformative role of Artificial Intelligence (AI) in fostering sustainable development. STAI emphasizes the integration of Natural Language Processing (NLP) and Machine Learning (ML) in ethical corporate communication and environmental sustainability. This workshop goes beyond traditional applications of AI, addressing the unique challenges and opportunities for smaller entities like countries and companies in an era increasingly dominated by large tech corporations and extensive AI models. It aims to provide actionable insights and strategies for utilizing AI to ensure sustainable growth and competitiveness for these smaller actors.
-
+## Sustainable Transition with AI (STAI)
